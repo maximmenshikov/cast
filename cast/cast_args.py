@@ -3,7 +3,6 @@
 # Author: Maxim Menshikov (maxim@menshikov.org)
 import argparse
 import os
-import re
 
 
 def file_path(p):
